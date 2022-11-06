@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://ethel-tech.github.io/csb-jyq7n9/static/css/main.0a1532c1.chunk.css",
-    "main.js": "https://ethel-tech.github.io/csb-jyq7n9/static/js/main.a5939bff.chunk.js",
-    "main.js.map": "https://ethel-tech.github.io/csb-jyq7n9/static/js/main.a5939bff.chunk.js.map",
+    "main.js": "https://ethel-tech.github.io/csb-jyq7n9/static/js/main.e8c31cfc.chunk.js",
+    "main.js.map": "https://ethel-tech.github.io/csb-jyq7n9/static/js/main.e8c31cfc.chunk.js.map",
     "runtime-main.js": "https://ethel-tech.github.io/csb-jyq7n9/static/js/runtime-main.693f86ed.js",
     "runtime-main.js.map": "https://ethel-tech.github.io/csb-jyq7n9/static/js/runtime-main.693f86ed.js.map",
-    "static/js/2.53bfaa19.chunk.js": "https://ethel-tech.github.io/csb-jyq7n9/static/js/2.53bfaa19.chunk.js",
-    "static/js/2.53bfaa19.chunk.js.map": "https://ethel-tech.github.io/csb-jyq7n9/static/js/2.53bfaa19.chunk.js.map",
+    "static/js/2.97d657a6.chunk.js": "https://ethel-tech.github.io/csb-jyq7n9/static/js/2.97d657a6.chunk.js",
+    "static/js/2.97d657a6.chunk.js.map": "https://ethel-tech.github.io/csb-jyq7n9/static/js/2.97d657a6.chunk.js.map",
     "index.html": "https://ethel-tech.github.io/csb-jyq7n9/index.html",
     "static/css/main.0a1532c1.chunk.css.map": "https://ethel-tech.github.io/csb-jyq7n9/static/css/main.0a1532c1.chunk.css.map",
-    "static/js/2.53bfaa19.chunk.js.LICENSE.txt": "https://ethel-tech.github.io/csb-jyq7n9/static/js/2.53bfaa19.chunk.js.LICENSE.txt"
+    "static/js/2.97d657a6.chunk.js.LICENSE.txt": "https://ethel-tech.github.io/csb-jyq7n9/static/js/2.97d657a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.693f86ed.js",
-    "static/js/2.53bfaa19.chunk.js",
+    "static/js/2.97d657a6.chunk.js",
     "static/css/main.0a1532c1.chunk.css",
-    "static/js/main.a5939bff.chunk.js"
+    "static/js/main.e8c31cfc.chunk.js"
   ]
 }
